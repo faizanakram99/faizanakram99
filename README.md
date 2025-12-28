@@ -1,6 +1,6 @@
 # Hi, I'm Faizan 👋
 
-Software engineer with nearly a decade of experience building backend systems. Currently based in the Netherlands, working on a multi-tenant ERP software specialized in commodity trading.
+10 years of experience building backend systems. Currently Principal Engineer at [@QbilSoftware](https://github.com/QbilSoftware), a multi-tenant ERP software specialized in commodity trading, based in the Netherlands.
 
 ## What I Do
 
