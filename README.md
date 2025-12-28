@@ -17,4 +17,5 @@ When not coding, I like to play with my toddlers, travel, and sleep.
 - 🌐 [faizanakram.me](https://faizanakram.me)
 - 💼 [LinkedIn](https://linkedin.com/in/faizanakram)
 - 🐦 [Twitter](https://twitter.com/faizanakram99)
+- 📡 [RSS](https://faizanakram.me/rss.xml)
 ---
